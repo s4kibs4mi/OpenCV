@@ -17,8 +17,6 @@ using namespace std;
 int main(){
     VideoCapture vc(0);
     Mat mat;
-    
-    vc >> mat;
     VideoWriter vw("/Users/s4kibs4mi/Documents/cppWebcamExample.avi",CV_FOURCC('D','I','V','X'), 30, cvSize(1280,720));
     
     if(vc.isOpened() && vw.isOpened()){
