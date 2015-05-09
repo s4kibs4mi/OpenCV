@@ -9,7 +9,7 @@ Java : http://www.sakibsami.com/2015/05/opencv-c-to-java-webcam-example.html
 
 Full : http://www.sakibsami.com/search/label/opencv
 
-For Any Support Feel free to mail :
-Sakib Sami
-s4kibs4mi@gmail.com
-http://www.codersgarage.net
+For Any Support Feel free to mail :<br>
+Sakib Sami<br>
+s4kibs4mi@gmail.com<br>
+http://www.codersgarage.net<br>
